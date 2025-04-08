@@ -1,0 +1,2 @@
+Initial API file
+Change 1 on 2025-04-08: Add new API endpoint for data retrieval
