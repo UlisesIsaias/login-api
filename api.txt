@@ -3,3 +3,4 @@ Change 1 on 2025-04-08: Add new API endpoint for data retrieval
 Change 2 on 2025-04-08: Fix bug in API authentication
 Change 3 on 2025-04-08: Improve API request handling
 Change 4 on 2025-04-08: Improve API logging
+Change 5 on 2025-04-08: Fix API timeout issue
