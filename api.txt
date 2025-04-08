@@ -8,3 +8,4 @@ Change 6 on 2025-04-08: Fix API rate limiting issue
 Change 7 on 2025-04-08: Add API monitoring
 Change 8 on 2025-04-08: Add API monitoring
 Change 9 on 2025-04-08: Update API response format
+Change 10 on 2025-04-08: Add caching to API endpoints
