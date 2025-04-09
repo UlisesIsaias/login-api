@@ -22,3 +22,4 @@ Change 2 on 2025-04-09: Update API version
 Change 3 on 2025-04-09: Add API monitoring
 Change 4 on 2025-04-09: Refactor API endpoint structure
 Change 5 on 2025-04-09: Update API client library
+Change 6 on 2025-04-09: Update API configuration
