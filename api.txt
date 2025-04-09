@@ -18,3 +18,4 @@ Change 16 on 2025-04-08: Refactor API endpoint structure
 Change 17 on 2025-04-08: Update API client library
 Change 18 on 2025-04-08: Enhance API security
 Change 1 on 2025-04-09: Improve API error messages
+Change 2 on 2025-04-09: Update API version
