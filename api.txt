@@ -32,3 +32,4 @@ Change 12 on 2025-04-09: Refactor API middleware
 Change 13 on 2025-04-09: Fix API pagination issue
 Change 14 on 2025-04-09: Fix API pagination issue
 Change 15 on 2025-04-09: Improve API error messages
+Change 16 on 2025-04-09: Fix API pagination issue
