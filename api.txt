@@ -35,3 +35,4 @@ Change 15 on 2025-04-09: Improve API error messages
 Change 16 on 2025-04-09: Fix API pagination issue
 Change 17 on 2025-04-09: Improve API request handling
 Change 18 on 2025-04-09: Refactor API middleware
+Change 19 on 2025-04-09: Add new API feature
