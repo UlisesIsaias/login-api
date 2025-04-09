@@ -27,3 +27,4 @@ Change 7 on 2025-04-09: Add API webhook support
 Change 8 on 2025-04-09: Fix API pagination issue
 Change 9 on 2025-04-09: Improve API error messages
 Change 10 on 2025-04-09: Refactor API middleware
+Change 11 on 2025-04-09: Refactor API middleware
