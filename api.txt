@@ -20,3 +20,4 @@ Change 18 on 2025-04-08: Enhance API security
 Change 1 on 2025-04-09: Improve API error messages
 Change 2 on 2025-04-09: Update API version
 Change 3 on 2025-04-09: Add API monitoring
+Change 4 on 2025-04-09: Refactor API endpoint structure
