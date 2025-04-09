@@ -25,3 +25,4 @@ Change 5 on 2025-04-09: Update API client library
 Change 6 on 2025-04-09: Update API configuration
 Change 7 on 2025-04-09: Add API webhook support
 Change 8 on 2025-04-09: Fix API pagination issue
+Change 9 on 2025-04-09: Improve API error messages
