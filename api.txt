@@ -43,3 +43,4 @@ Change 23 on 2025-04-09: Fix API rate limiting issue
 Change 1 on 2025-04-10: Update API client library
 Change 2 on 2025-04-10: Update API client library
 Change 3 on 2025-04-10: Optimize API performance
+Change 4 on 2025-04-10: Refactor API middleware
