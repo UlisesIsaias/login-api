@@ -53,3 +53,4 @@ Change 10 on 2025-04-10: Add caching to API endpoints
 Change 11 on 2025-04-10: Refactor API middleware
 Change 12 on 2025-04-10: Add new API endpoint for data retrieval
 Change 13 on 2025-04-10: Fix API rate limiting issue
+Change 14 on 2025-04-10: Add API webhook support
