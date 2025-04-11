@@ -66,3 +66,4 @@ Change 2 on 2025-04-11: Update API dependencies
 Change 3 on 2025-04-11: Update API client library
 Change 4 on 2025-04-11: Update API documentation
 Change 5 on 2025-04-11: Add new API feature
+Change 6 on 2025-04-11: Add error handling to API response
