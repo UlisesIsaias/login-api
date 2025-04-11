@@ -61,3 +61,4 @@ Change 18 on 2025-04-10: Add unit tests for API
 Change 19 on 2025-04-10: Add API monitoring
 Change 20 on 2025-04-10: Improve API request handling
 Change 21 on 2025-04-10: Add API monitoring
+Change 1 on 2025-04-11: Fix API rate limiting issue
