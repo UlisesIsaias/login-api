@@ -74,3 +74,4 @@ Change 10 on 2025-04-11: Add new API endpoint for data retrieval
 Change 11 on 2025-04-11: Fix API timeout issue
 Change 12 on 2025-04-11: Refactor API endpoint structure
 Change 13 on 2025-04-11: Update API response format
+Change 14 on 2025-04-11: Add new API endpoint for data retrieval
