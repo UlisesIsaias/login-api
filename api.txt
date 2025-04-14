@@ -94,3 +94,4 @@ Change 12 on 2025-04-14: Fix bug in API authentication
 Change 13 on 2025-04-14: Update API configuration
 Change 14 on 2025-04-14: Update API client library
 Change 15 on 2025-04-14: Fix API rate limiting issue
+Change 16 on 2025-04-14: Update API version
