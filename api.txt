@@ -89,3 +89,4 @@ Change 7 on 2025-04-14: Update API version
 Change 8 on 2025-04-14: Add error handling to API response
 Change 9 on 2025-04-14: Improve API request handling
 Change 10 on 2025-04-14: Fix bug in API authentication
+Change 11 on 2025-04-14: Update API configuration
