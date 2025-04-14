@@ -86,3 +86,4 @@ Change 4 on 2025-04-14: Update API configuration
 Change 5 on 2025-04-14: Optimize API performance
 Change 6 on 2025-04-14: Add unit tests for API
 Change 7 on 2025-04-14: Update API version
+Change 8 on 2025-04-14: Add error handling to API response
