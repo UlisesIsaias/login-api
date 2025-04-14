@@ -81,3 +81,4 @@ Change 17 on 2025-04-11: Enhance API security
 Change 18 on 2025-04-11: Update API documentation
 Change 1 on 2025-04-14: Fix API rate limiting issue
 Change 2 on 2025-04-14: Add new API feature
+Change 3 on 2025-04-14: Add new API endpoint for data retrieval
