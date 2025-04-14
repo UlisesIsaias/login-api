@@ -79,3 +79,4 @@ Change 15 on 2025-04-11: Refactor API middleware
 Change 16 on 2025-04-11: Fix API pagination issue
 Change 17 on 2025-04-11: Enhance API security
 Change 18 on 2025-04-11: Update API documentation
+Change 1 on 2025-04-14: Fix API rate limiting issue
