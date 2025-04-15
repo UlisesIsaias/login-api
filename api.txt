@@ -109,3 +109,4 @@ Change 7 on 2025-04-15: Fix bug in API authentication
 Change 8 on 2025-04-15: Add unit tests for API
 Change 9 on 2025-04-15: Update API response format
 Change 10 on 2025-04-15: Add API webhook support
+Change 11 on 2025-04-15: Fix API response validation
