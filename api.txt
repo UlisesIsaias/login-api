@@ -99,3 +99,4 @@ Change 17 on 2025-04-14: Add unit tests for API
 Change 18 on 2025-04-14: Add error handling to API response
 Change 19 on 2025-04-14: Fix API timeout issue
 Change 20 on 2025-04-14: Refactor API endpoint structure
+Change 1 on 2025-04-15: Add caching to API endpoints
