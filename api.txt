@@ -102,3 +102,4 @@ Change 20 on 2025-04-14: Refactor API endpoint structure
 Change 1 on 2025-04-15: Add caching to API endpoints
 Change 2 on 2025-04-15: Improve API error messages
 Change 3 on 2025-04-15: Add unit tests for API
+Change 4 on 2025-04-15: Improve API error messages
