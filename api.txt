@@ -111,3 +111,4 @@ Change 9 on 2025-04-15: Update API response format
 Change 10 on 2025-04-15: Add API webhook support
 Change 11 on 2025-04-15: Fix API response validation
 Change 12 on 2025-04-15: Add caching to API endpoints
+Change 13 on 2025-04-15: Fix API response validation
