@@ -113,3 +113,4 @@ Change 11 on 2025-04-15: Fix API response validation
 Change 12 on 2025-04-15: Add caching to API endpoints
 Change 13 on 2025-04-15: Fix API response validation
 Change 14 on 2025-04-15: Update API client library
+Change 15 on 2025-04-15: Update API version
