@@ -118,3 +118,4 @@ Change 16 on 2025-04-15: Update API response format
 Change 17 on 2025-04-15: Update API dependencies
 Change 18 on 2025-04-15: Fix API response validation
 Change 19 on 2025-04-15: Optimize API performance
+Change 20 on 2025-04-15: Update API client library
