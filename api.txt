@@ -122,3 +122,4 @@ Change 20 on 2025-04-15: Update API client library
 Change 21 on 2025-04-15: Add error handling to API response
 Change 1 on 2025-04-16: Fix bug in API authentication
 Change 2 on 2025-04-16: Update API response format
+Change 3 on 2025-04-16: Improve API error messages
