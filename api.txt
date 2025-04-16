@@ -140,3 +140,4 @@ Change 17 on 2025-04-16: Fix API response validation
 Change 18 on 2025-04-16: Add new API feature
 Change 19 on 2025-04-16: Add new API feature
 Change 20 on 2025-04-16: Enhance API security
+Change 21 on 2025-04-16: Refactor API endpoint structure
