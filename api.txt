@@ -142,3 +142,4 @@ Change 19 on 2025-04-16: Add new API feature
 Change 20 on 2025-04-16: Enhance API security
 Change 21 on 2025-04-16: Refactor API endpoint structure
 Change 22 on 2025-04-16: Fix bug in API authentication
+Change 23 on 2025-04-16: Fix API pagination issue
