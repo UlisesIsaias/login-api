@@ -125,3 +125,4 @@ Change 2 on 2025-04-16: Update API response format
 Change 3 on 2025-04-16: Improve API error messages
 Change 4 on 2025-04-16: Improve API request handling
 Change 5 on 2025-04-16: Add API monitoring
+Change 6 on 2025-04-16: Add error handling to API response
