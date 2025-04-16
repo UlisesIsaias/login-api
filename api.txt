@@ -130,3 +130,4 @@ Change 7 on 2025-04-16: Update API configuration
 Change 8 on 2025-04-16: Add unit tests for API
 Change 9 on 2025-04-16: Refactor API middleware
 Change 10 on 2025-04-16: Fix API rate limiting issue
+Change 11 on 2025-04-16: Improve API error messages
