@@ -120,3 +120,4 @@ Change 18 on 2025-04-15: Fix API response validation
 Change 19 on 2025-04-15: Optimize API performance
 Change 20 on 2025-04-15: Update API client library
 Change 21 on 2025-04-15: Add error handling to API response
+Change 1 on 2025-04-16: Fix bug in API authentication
