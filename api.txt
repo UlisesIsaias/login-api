@@ -147,3 +147,4 @@ Change 1 on 2025-04-17: Update API documentation
 Change 2 on 2025-04-17: Improve API logging
 Change 3 on 2025-04-17: Improve API logging
 Change 4 on 2025-04-17: Add API monitoring
+Change 5 on 2025-04-17: Update API configuration
