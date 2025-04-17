@@ -155,3 +155,4 @@ Change 9 on 2025-04-17: Refactor API middleware
 Change 10 on 2025-04-17: Update API dependencies
 Change 11 on 2025-04-17: Update API version
 Change 12 on 2025-04-17: Add API monitoring
+Change 13 on 2025-04-17: Add unit tests for API
