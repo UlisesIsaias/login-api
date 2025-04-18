@@ -164,3 +164,4 @@ Change 18 on 2025-04-17: Add unit tests for API
 Change 1 on 2025-04-18: Update API configuration
 Change 2 on 2025-04-18: Improve API error messages
 Change 3 on 2025-04-18: Fix bug in API authentication
+Change 4 on 2025-04-18: Update API response format
