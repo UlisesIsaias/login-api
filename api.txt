@@ -179,3 +179,4 @@ Change 15 on 2025-04-18: Fix API timeout issue
 Change 16 on 2025-04-18: Update API dependencies
 Change 17 on 2025-04-18: Fix bug in API authentication
 Change 18 on 2025-04-18: Update API configuration
+Change 19 on 2025-04-18: Fix API pagination issue
