@@ -170,3 +170,4 @@ Change 6 on 2025-04-18: Update API response format
 Change 7 on 2025-04-18: Update API client library
 Change 8 on 2025-04-18: Update API documentation
 Change 9 on 2025-04-18: Fix bug in API authentication
+Change 10 on 2025-04-18: Fix API response validation
