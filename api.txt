@@ -173,3 +173,4 @@ Change 9 on 2025-04-18: Fix bug in API authentication
 Change 10 on 2025-04-18: Fix API response validation
 Change 11 on 2025-04-18: Improve API request handling
 Change 12 on 2025-04-18: Enhance API security
+Change 13 on 2025-04-18: Update API response format
