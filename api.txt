@@ -183,3 +183,4 @@ Change 19 on 2025-04-18: Fix API pagination issue
 Change 20 on 2025-04-18: Optimize API performance
 Change 21 on 2025-04-18: Add API webhook support
 Change 22 on 2025-04-18: Fix API pagination issue
+Change 23 on 2025-04-18: Update API response format
