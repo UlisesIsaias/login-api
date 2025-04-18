@@ -162,3 +162,4 @@ Change 16 on 2025-04-17: Add unit tests for API
 Change 17 on 2025-04-17: Update API documentation
 Change 18 on 2025-04-17: Add unit tests for API
 Change 1 on 2025-04-18: Update API configuration
+Change 2 on 2025-04-18: Improve API error messages
