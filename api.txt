@@ -166,3 +166,4 @@ Change 2 on 2025-04-18: Improve API error messages
 Change 3 on 2025-04-18: Fix bug in API authentication
 Change 4 on 2025-04-18: Update API response format
 Change 5 on 2025-04-18: Improve API error messages
+Change 6 on 2025-04-18: Update API response format
