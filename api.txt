@@ -204,3 +204,4 @@ Change 17 on 2025-04-21: Fix API response validation
 Change 18 on 2025-04-21: Add new API endpoint for data retrieval
 Change 19 on 2025-04-21: Fix API pagination issue
 Change 20 on 2025-04-21: Fix API rate limiting issue
+Change 21 on 2025-04-21: Update API response format
