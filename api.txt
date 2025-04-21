@@ -208,3 +208,4 @@ Change 21 on 2025-04-21: Update API response format
 Change 22 on 2025-04-21: Update API configuration
 Change 23 on 2025-04-21: Add API monitoring
 Change 24 on 2025-04-21: Add API monitoring
+Change 25 on 2025-04-21: Add new API endpoint for data retrieval
