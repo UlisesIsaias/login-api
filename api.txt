@@ -195,3 +195,4 @@ Change 8 on 2025-04-21: Update API dependencies
 Change 9 on 2025-04-21: Add API webhook support
 Change 10 on 2025-04-21: Refactor API endpoint structure
 Change 11 on 2025-04-21: Add unit tests for API
+Change 12 on 2025-04-21: Add API webhook support
