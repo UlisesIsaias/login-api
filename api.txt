@@ -201,3 +201,4 @@ Change 14 on 2025-04-21: Add error handling to API response
 Change 15 on 2025-04-21: Improve API logging
 Change 16 on 2025-04-21: Improve API request handling
 Change 17 on 2025-04-21: Fix API response validation
+Change 18 on 2025-04-21: Add new API endpoint for data retrieval
