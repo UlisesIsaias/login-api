@@ -193,3 +193,4 @@ Change 6 on 2025-04-21: Refactor API middleware
 Change 7 on 2025-04-21: Fix API rate limiting issue
 Change 8 on 2025-04-21: Update API dependencies
 Change 9 on 2025-04-21: Add API webhook support
+Change 10 on 2025-04-21: Refactor API endpoint structure
