@@ -198,3 +198,4 @@ Change 11 on 2025-04-21: Add unit tests for API
 Change 12 on 2025-04-21: Add API webhook support
 Change 13 on 2025-04-21: Fix API response validation
 Change 14 on 2025-04-21: Add error handling to API response
+Change 15 on 2025-04-21: Improve API logging
