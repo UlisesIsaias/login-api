@@ -227,3 +227,4 @@ Change 13 on 2025-04-22: Improve API logging
 Change 14 on 2025-04-22: Add new API endpoint for data retrieval
 Change 15 on 2025-04-22: Improve API request handling
 Change 16 on 2025-04-22: Add API monitoring
+Change 17 on 2025-04-22: Update API configuration
