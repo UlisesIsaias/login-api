@@ -216,3 +216,4 @@ Change 2 on 2025-04-22: Add new API endpoint for data retrieval
 Change 3 on 2025-04-22: Add new API endpoint for data retrieval
 Change 4 on 2025-04-22: Improve API error messages
 Change 5 on 2025-04-22: Optimize API performance
+Change 6 on 2025-04-22: Fix API response validation
