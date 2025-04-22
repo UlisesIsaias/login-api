@@ -218,3 +218,4 @@ Change 4 on 2025-04-22: Improve API error messages
 Change 5 on 2025-04-22: Optimize API performance
 Change 6 on 2025-04-22: Fix API response validation
 Change 7 on 2025-04-22: Add API monitoring
+Change 8 on 2025-04-22: Fix bug in API authentication
