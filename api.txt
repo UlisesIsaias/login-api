@@ -221,3 +221,4 @@ Change 7 on 2025-04-22: Add API monitoring
 Change 8 on 2025-04-22: Fix bug in API authentication
 Change 9 on 2025-04-22: Update API version
 Change 10 on 2025-04-22: Update API documentation
+Change 11 on 2025-04-22: Add API webhook support
