@@ -214,3 +214,4 @@ Change 27 on 2025-04-21: Refactor API middleware
 Change 1 on 2025-04-22: Improve API logging
 Change 2 on 2025-04-22: Add new API endpoint for data retrieval
 Change 3 on 2025-04-22: Add new API endpoint for data retrieval
+Change 4 on 2025-04-22: Improve API error messages
