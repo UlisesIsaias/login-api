@@ -225,3 +225,4 @@ Change 11 on 2025-04-22: Add API webhook support
 Change 12 on 2025-04-22: Enhance API security
 Change 13 on 2025-04-22: Improve API logging
 Change 14 on 2025-04-22: Add new API endpoint for data retrieval
+Change 15 on 2025-04-22: Improve API request handling
