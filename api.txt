@@ -247,3 +247,4 @@ Change 14 on 2025-04-23: Update API response format
 Change 15 on 2025-04-23: Optimize API performance
 Change 16 on 2025-04-23: Fix bug in API authentication
 Change 17 on 2025-04-23: Add caching to API endpoints
+Change 18 on 2025-04-23: Refactor API middleware
