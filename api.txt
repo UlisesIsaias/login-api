@@ -234,3 +234,4 @@ Change 1 on 2025-04-23: Update API dependencies
 Change 2 on 2025-04-23: Fix API timeout issue
 Change 3 on 2025-04-23: Improve API request handling
 Change 4 on 2025-04-23: Improve API logging
+Change 5 on 2025-04-23: Update API version
