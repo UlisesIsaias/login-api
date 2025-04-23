@@ -236,3 +236,4 @@ Change 3 on 2025-04-23: Improve API request handling
 Change 4 on 2025-04-23: Improve API logging
 Change 5 on 2025-04-23: Update API version
 Change 6 on 2025-04-23: Update API configuration
+Change 7 on 2025-04-23: Update API configuration
