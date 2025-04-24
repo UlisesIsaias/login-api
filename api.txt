@@ -252,3 +252,4 @@ Change 19 on 2025-04-23: Fix API timeout issue
 Change 1 on 2025-04-24: Add new API endpoint for data retrieval
 Change 2 on 2025-04-24: Update API client library
 Change 3 on 2025-04-24: Update API version
+Change 4 on 2025-04-24: Fix API response validation
