@@ -249,3 +249,4 @@ Change 16 on 2025-04-23: Fix bug in API authentication
 Change 17 on 2025-04-23: Add caching to API endpoints
 Change 18 on 2025-04-23: Refactor API middleware
 Change 19 on 2025-04-23: Fix API timeout issue
+Change 1 on 2025-04-24: Add new API endpoint for data retrieval
