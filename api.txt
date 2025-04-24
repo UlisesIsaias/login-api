@@ -262,3 +262,4 @@ Change 10 on 2025-04-24: Add caching to API endpoints
 Change 11 on 2025-04-24: Enhance API security
 Change 12 on 2025-04-24: Update API client library
 Change 13 on 2025-04-24: Update API configuration
+Change 14 on 2025-04-24: Refactor API endpoint structure
