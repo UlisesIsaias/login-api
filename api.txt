@@ -256,3 +256,4 @@ Change 4 on 2025-04-24: Fix API response validation
 Change 5 on 2025-04-24: Optimize API performance
 Change 6 on 2025-04-24: Enhance API security
 Change 7 on 2025-04-24: Fix API timeout issue
+Change 8 on 2025-04-24: Add new API endpoint for data retrieval
