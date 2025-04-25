@@ -270,3 +270,4 @@ Change 18 on 2025-04-24: Fix API rate limiting issue
 Change 19 on 2025-04-24: Update API response format
 Change 1 on 2025-04-25: Improve API logging
 Change 2 on 2025-04-25: Update API dependencies
+Change 3 on 2025-04-25: Update API documentation
