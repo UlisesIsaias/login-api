@@ -273,3 +273,4 @@ Change 2 on 2025-04-25: Update API dependencies
 Change 3 on 2025-04-25: Update API documentation
 Change 4 on 2025-04-25: Update API dependencies
 Change 1 on 2025-04-28: Fix bug in API authentication
+Change 2 on 2025-04-28: Improve API logging
