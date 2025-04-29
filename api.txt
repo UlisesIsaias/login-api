@@ -276,3 +276,4 @@ Change 1 on 2025-04-28: Fix bug in API authentication
 Change 2 on 2025-04-28: Improve API logging
 Change 3 on 2025-04-28: Update API response format
 Change 4 on 2025-04-28: Update API client library
+Change 1 on 2025-04-29: Update API dependencies
