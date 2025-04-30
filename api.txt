@@ -287,3 +287,4 @@ Change 4 on 2025-04-30: Improve API error messages
 Change 5 on 2025-04-30: Add API webhook support
 Change 6 on 2025-04-30: Add new API feature
 Change 7 on 2025-04-30: Update API client library
+Change 8 on 2025-04-30: Update API response format
