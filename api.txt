@@ -292,3 +292,4 @@ Change 9 on 2025-04-30: Fix bug in API authentication
 Change 10 on 2025-04-30: Add caching to API endpoints
 Change 11 on 2025-04-30: Fix API pagination issue
 Change 12 on 2025-04-30: Update API dependencies
+Change 13 on 2025-04-30: Fix API timeout issue
