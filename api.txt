@@ -302,3 +302,4 @@ Change 19 on 2025-04-30: Update API response format
 Change 20 on 2025-04-30: Add unit tests for API
 Change 21 on 2025-04-30: Improve API error messages
 Change 22 on 2025-04-30: Improve API logging
+Change 23 on 2025-04-30: Refactor API endpoint structure
