@@ -281,3 +281,4 @@ Change 2 on 2025-04-29: Add caching to API endpoints
 Change 3 on 2025-04-29: Add API monitoring
 Change 4 on 2025-04-29: Add caching to API endpoints
 Change 1 on 2025-04-30: Update API version
+Change 2 on 2025-04-30: Add unit tests for API
