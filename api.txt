@@ -307,3 +307,4 @@ Change 24 on 2025-04-30: Add unit tests for API
 Change 1 on 2025-05-01: Add new API endpoint for data retrieval
 Change 2 on 2025-05-01: Improve API logging
 Change 3 on 2025-05-01: Add API webhook support
+Change 4 on 2025-05-01: Update API documentation
