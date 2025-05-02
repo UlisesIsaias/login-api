@@ -319,3 +319,4 @@ Change 8 on 2025-05-02: Add API webhook support
 Change 9 on 2025-05-02: Refactor API endpoint structure
 Change 10 on 2025-05-02: Add error handling to API response
 Change 11 on 2025-05-02: Add error handling to API response
+Change 12 on 2025-05-02: Add error handling to API response
