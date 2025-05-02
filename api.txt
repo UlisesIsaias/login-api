@@ -311,3 +311,4 @@ Change 4 on 2025-05-01: Update API documentation
 Change 1 on 2025-05-02: Refactor API middleware
 Change 2 on 2025-05-02: Fix bug in API authentication
 Change 3 on 2025-05-02: Update API dependencies
+Change 4 on 2025-05-02: Add new API feature
