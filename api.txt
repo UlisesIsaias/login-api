@@ -309,3 +309,4 @@ Change 2 on 2025-05-01: Improve API logging
 Change 3 on 2025-05-01: Add API webhook support
 Change 4 on 2025-05-01: Update API documentation
 Change 1 on 2025-05-02: Refactor API middleware
+Change 2 on 2025-05-02: Fix bug in API authentication
