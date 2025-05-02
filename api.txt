@@ -327,3 +327,4 @@ Change 16 on 2025-05-02: Update API client library
 Change 17 on 2025-05-02: Update API dependencies
 Change 18 on 2025-05-02: Improve API logging
 Change 19 on 2025-05-02: Add new API endpoint for data retrieval
+Change 20 on 2025-05-02: Refactor API middleware
