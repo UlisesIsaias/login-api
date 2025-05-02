@@ -315,3 +315,4 @@ Change 4 on 2025-05-02: Add new API feature
 Change 5 on 2025-05-02: Fix API rate limiting issue
 Change 6 on 2025-05-02: Add new API feature
 Change 7 on 2025-05-02: Fix API response validation
+Change 8 on 2025-05-02: Add API webhook support
