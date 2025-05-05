@@ -345,3 +345,4 @@ Change 14 on 2025-05-05: Add caching to API endpoints
 Change 15 on 2025-05-05: Update API dependencies
 Change 16 on 2025-05-05: Add API webhook support
 Change 17 on 2025-05-05: Add error handling to API response
+Change 18 on 2025-05-05: Fix API pagination issue
