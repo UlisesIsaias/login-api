@@ -339,3 +339,4 @@ Change 8 on 2025-05-05: Update API dependencies
 Change 9 on 2025-05-05: Improve API error messages
 Change 10 on 2025-05-05: Add new API endpoint for data retrieval
 Change 11 on 2025-05-05: Add API webhook support
+Change 12 on 2025-05-05: Update API configuration
