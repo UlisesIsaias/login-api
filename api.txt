@@ -343,3 +343,4 @@ Change 12 on 2025-05-05: Update API configuration
 Change 13 on 2025-05-05: Improve API request handling
 Change 14 on 2025-05-05: Add caching to API endpoints
 Change 15 on 2025-05-05: Update API dependencies
+Change 16 on 2025-05-05: Add API webhook support
