@@ -349,3 +349,4 @@ Change 18 on 2025-05-05: Fix API pagination issue
 Change 19 on 2025-05-05: Update API version
 Change 1 on 2025-05-06: Add API webhook support
 Change 2 on 2025-05-06: Improve API error messages
+Change 3 on 2025-05-06: Enhance API security
