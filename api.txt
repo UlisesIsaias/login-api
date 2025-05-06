@@ -356,3 +356,4 @@ Change 6 on 2025-05-06: Add error handling to API response
 Change 7 on 2025-05-06: Improve API logging
 Change 8 on 2025-05-06: Improve API request handling
 Change 9 on 2025-05-06: Fix bug in API authentication
+Change 10 on 2025-05-06: Add API webhook support
