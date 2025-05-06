@@ -358,3 +358,4 @@ Change 8 on 2025-05-06: Improve API request handling
 Change 9 on 2025-05-06: Fix bug in API authentication
 Change 10 on 2025-05-06: Add API webhook support
 Change 11 on 2025-05-06: Update API dependencies
+Change 12 on 2025-05-06: Fix API response validation
