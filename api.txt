@@ -373,3 +373,4 @@ Change 2 on 2025-05-07: Add unit tests for API
 Change 3 on 2025-05-07: Fix API pagination issue
 Change 4 on 2025-05-07: Add API monitoring
 Change 5 on 2025-05-07: Refactor API endpoint structure
+Change 6 on 2025-05-07: Improve API error messages
