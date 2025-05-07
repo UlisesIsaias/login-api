@@ -387,3 +387,4 @@ Change 16 on 2025-05-07: Add caching to API endpoints
 Change 17 on 2025-05-07: Refactor API middleware
 Change 18 on 2025-05-07: Fix API timeout issue
 Change 19 on 2025-05-07: Fix API timeout issue
+Change 20 on 2025-05-07: Refactor API endpoint structure
