@@ -370,3 +370,4 @@ Change 20 on 2025-05-06: Refactor API middleware
 Change 21 on 2025-05-06: Add API monitoring
 Change 1 on 2025-05-07: Add error handling to API response
 Change 2 on 2025-05-07: Add unit tests for API
+Change 3 on 2025-05-07: Fix API pagination issue
