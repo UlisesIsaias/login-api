@@ -380,3 +380,4 @@ Change 9 on 2025-05-07: Fix API response validation
 Change 10 on 2025-05-07: Fix API response validation
 Change 11 on 2025-05-07: Improve API error messages
 Change 12 on 2025-05-07: Add new API feature
+Change 13 on 2025-05-07: Fix API response validation
