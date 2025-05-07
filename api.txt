@@ -384,3 +384,4 @@ Change 13 on 2025-05-07: Fix API response validation
 Change 14 on 2025-05-07: Improve API error messages
 Change 15 on 2025-05-07: Add new API feature
 Change 16 on 2025-05-07: Add caching to API endpoints
+Change 17 on 2025-05-07: Refactor API middleware
