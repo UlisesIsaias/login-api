@@ -377,3 +377,4 @@ Change 6 on 2025-05-07: Improve API error messages
 Change 7 on 2025-05-07: Add unit tests for API
 Change 8 on 2025-05-07: Add new API feature
 Change 9 on 2025-05-07: Fix API response validation
+Change 10 on 2025-05-07: Fix API response validation
