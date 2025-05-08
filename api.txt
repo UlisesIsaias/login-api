@@ -390,3 +390,4 @@ Change 19 on 2025-05-07: Fix API timeout issue
 Change 20 on 2025-05-07: Refactor API endpoint structure
 Change 1 on 2025-05-08: Improve API request handling
 Change 2 on 2025-05-08: Add error handling to API response
+Change 3 on 2025-05-08: Add error handling to API response
