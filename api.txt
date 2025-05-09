@@ -397,3 +397,4 @@ Change 2 on 2025-05-09: Optimize API performance
 Change 3 on 2025-05-09: Enhance API security
 Change 4 on 2025-05-09: Optimize API performance
 Change 5 on 2025-05-09: Update API version
+Change 6 on 2025-05-09: Add new API endpoint for data retrieval
