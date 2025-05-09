@@ -416,3 +416,4 @@ Change 21 on 2025-05-09: Enhance API security
 Change 22 on 2025-05-09: Fix API rate limiting issue
 Change 23 on 2025-05-09: Improve API error messages
 Change 24 on 2025-05-09: Fix API response validation
+Change 25 on 2025-05-09: Add API webhook support
