@@ -395,3 +395,4 @@ Change 4 on 2025-05-08: Improve API error messages
 Change 1 on 2025-05-09: Fix bug in API authentication
 Change 2 on 2025-05-09: Optimize API performance
 Change 3 on 2025-05-09: Enhance API security
+Change 4 on 2025-05-09: Optimize API performance
