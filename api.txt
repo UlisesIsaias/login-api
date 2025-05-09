@@ -409,3 +409,4 @@ Change 14 on 2025-05-09: Add API webhook support
 Change 15 on 2025-05-09: Fix API pagination issue
 Change 16 on 2025-05-09: Update API documentation
 Change 17 on 2025-05-09: Add API monitoring
+Change 18 on 2025-05-09: Add error handling to API response
