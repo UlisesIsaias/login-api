@@ -413,3 +413,4 @@ Change 18 on 2025-05-09: Add error handling to API response
 Change 19 on 2025-05-09: Enhance API security
 Change 20 on 2025-05-09: Enhance API security
 Change 21 on 2025-05-09: Enhance API security
+Change 22 on 2025-05-09: Fix API rate limiting issue
