@@ -404,3 +404,4 @@ Change 9 on 2025-05-09: Add error handling to API response
 Change 10 on 2025-05-09: Add error handling to API response
 Change 11 on 2025-05-09: Add API webhook support
 Change 12 on 2025-05-09: Add new API feature
+Change 13 on 2025-05-09: Fix API timeout issue
