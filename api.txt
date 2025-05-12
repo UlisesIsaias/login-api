@@ -425,3 +425,4 @@ Change 3 on 2025-05-12: Optimize API performance
 Change 4 on 2025-05-12: Add API monitoring
 Change 5 on 2025-05-12: Update API version
 Change 6 on 2025-05-12: Add new API feature
+Change 7 on 2025-05-12: Improve API error messages
