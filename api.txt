@@ -436,3 +436,4 @@ Change 14 on 2025-05-12: Optimize API performance
 Change 15 on 2025-05-12: Add API webhook support
 Change 16 on 2025-05-12: Fix API rate limiting issue
 Change 17 on 2025-05-12: Add caching to API endpoints
+Change 18 on 2025-05-12: Update API documentation
