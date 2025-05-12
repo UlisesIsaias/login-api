@@ -419,3 +419,4 @@ Change 24 on 2025-05-09: Fix API response validation
 Change 25 on 2025-05-09: Add API webhook support
 Change 26 on 2025-05-09: Improve API logging
 Change 27 on 2025-05-09: Add unit tests for API
+Change 1 on 2025-05-12: Optimize API performance
