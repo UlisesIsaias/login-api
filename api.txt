@@ -444,3 +444,4 @@ Change 3 on 2025-05-13: Add API monitoring
 Change 4 on 2025-05-13: Improve API error messages
 Change 5 on 2025-05-13: Update API dependencies
 Change 6 on 2025-05-13: Add new API feature
+Change 7 on 2025-05-13: Add error handling to API response
