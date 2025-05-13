@@ -450,3 +450,4 @@ Change 9 on 2025-05-13: Refactor API middleware
 Change 10 on 2025-05-13: Fix API timeout issue
 Change 11 on 2025-05-13: Fix bug in API authentication
 Change 12 on 2025-05-13: Add new API endpoint for data retrieval
+Change 13 on 2025-05-13: Update API client library
