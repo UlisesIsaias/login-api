@@ -457,3 +457,4 @@ Change 16 on 2025-05-13: Improve API error messages
 Change 17 on 2025-05-13: Add new API endpoint for data retrieval
 Change 18 on 2025-05-13: Add error handling to API response
 Change 19 on 2025-05-13: Update API documentation
+Change 20 on 2025-05-13: Add new API feature
