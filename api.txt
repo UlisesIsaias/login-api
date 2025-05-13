@@ -453,3 +453,4 @@ Change 12 on 2025-05-13: Add new API endpoint for data retrieval
 Change 13 on 2025-05-13: Update API client library
 Change 14 on 2025-05-13: Refactor API middleware
 Change 15 on 2025-05-13: Optimize API performance
+Change 16 on 2025-05-13: Improve API error messages
