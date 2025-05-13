@@ -441,3 +441,4 @@ Change 19 on 2025-05-12: Update API dependencies
 Change 1 on 2025-05-13: Add unit tests for API
 Change 2 on 2025-05-13: Fix API timeout issue
 Change 3 on 2025-05-13: Add API monitoring
+Change 4 on 2025-05-13: Improve API error messages
