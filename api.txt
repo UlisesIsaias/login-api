@@ -461,3 +461,4 @@ Change 20 on 2025-05-13: Add new API feature
 Change 21 on 2025-05-13: Fix API response validation
 Change 22 on 2025-05-13: Update API dependencies
 Change 1 on 2025-05-14: Update API client library
+Change 2 on 2025-05-14: Add new API endpoint for data retrieval
