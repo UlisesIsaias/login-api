@@ -464,3 +464,4 @@ Change 1 on 2025-05-14: Update API client library
 Change 2 on 2025-05-14: Add new API endpoint for data retrieval
 Change 3 on 2025-05-14: Add caching to API endpoints
 Change 4 on 2025-05-14: Improve API error messages
+Change 5 on 2025-05-14: Update API dependencies
