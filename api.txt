@@ -478,3 +478,4 @@ Change 15 on 2025-05-14: Update API response format
 Change 16 on 2025-05-14: Improve API error messages
 Change 17 on 2025-05-14: Update API version
 Change 18 on 2025-05-14: Update API version
+Change 19 on 2025-05-14: Update API dependencies
