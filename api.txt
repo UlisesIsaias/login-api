@@ -472,3 +472,4 @@ Change 9 on 2025-05-14: Update API client library
 Change 10 on 2025-05-14: Update API dependencies
 Change 11 on 2025-05-14: Fix API timeout issue
 Change 12 on 2025-05-14: Update API version
+Change 13 on 2025-05-14: Add caching to API endpoints
