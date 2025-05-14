@@ -480,3 +480,4 @@ Change 17 on 2025-05-14: Update API version
 Change 18 on 2025-05-14: Update API version
 Change 19 on 2025-05-14: Update API dependencies
 Change 20 on 2025-05-14: Add API webhook support
+Change 21 on 2025-05-14: Improve API request handling
