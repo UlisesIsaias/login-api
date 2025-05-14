@@ -476,3 +476,4 @@ Change 13 on 2025-05-14: Add caching to API endpoints
 Change 14 on 2025-05-14: Update API client library
 Change 15 on 2025-05-14: Update API response format
 Change 16 on 2025-05-14: Improve API error messages
+Change 17 on 2025-05-14: Update API version
