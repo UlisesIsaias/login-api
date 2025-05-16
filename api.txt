@@ -489,3 +489,4 @@ Change 3 on 2025-05-15: Optimize API performance
 Change 4 on 2025-05-15: Update API documentation
 Change 1 on 2025-05-16: Update API configuration
 Change 2 on 2025-05-16: Update API configuration
+Change 3 on 2025-05-16: Add API webhook support
