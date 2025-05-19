@@ -515,3 +515,4 @@ Change 21 on 2025-05-19: Improve API request handling
 Change 22 on 2025-05-19: Add API monitoring
 Change 23 on 2025-05-19: Add unit tests for API
 Change 24 on 2025-05-19: Improve API request handling
+Change 25 on 2025-05-19: Update API client library
