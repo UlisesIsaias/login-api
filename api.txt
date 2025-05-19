@@ -498,3 +498,4 @@ Change 4 on 2025-05-19: Improve API request handling
 Change 5 on 2025-05-19: Optimize API performance
 Change 6 on 2025-05-19: Update API documentation
 Change 7 on 2025-05-19: Refactor API endpoint structure
+Change 8 on 2025-05-19: Refactor API endpoint structure
