@@ -500,3 +500,4 @@ Change 6 on 2025-05-19: Update API documentation
 Change 7 on 2025-05-19: Refactor API endpoint structure
 Change 8 on 2025-05-19: Refactor API endpoint structure
 Change 9 on 2025-05-19: Fix bug in API authentication
+Change 10 on 2025-05-19: Fix API timeout issue
