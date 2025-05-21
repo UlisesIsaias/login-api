@@ -530,3 +530,4 @@ Change 10 on 2025-05-21: Add error handling to API response
 Change 11 on 2025-05-21: Fix bug in API authentication
 Change 12 on 2025-05-21: Fix API pagination issue
 Change 13 on 2025-05-21: Add caching to API endpoints
+Change 14 on 2025-05-21: Update API dependencies
