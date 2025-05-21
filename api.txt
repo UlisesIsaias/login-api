@@ -517,3 +517,4 @@ Change 23 on 2025-05-19: Add unit tests for API
 Change 24 on 2025-05-19: Improve API request handling
 Change 25 on 2025-05-19: Update API client library
 Change 26 on 2025-05-19: Update API version
+Change 1 on 2025-05-21: Fix bug in API authentication
