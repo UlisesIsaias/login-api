@@ -525,3 +525,4 @@ Change 5 on 2025-05-21: Refactor API endpoint structure
 Change 6 on 2025-05-21: Add caching to API endpoints
 Change 7 on 2025-05-21: Add API webhook support
 Change 8 on 2025-05-21: Improve API logging
+Change 9 on 2025-05-21: Add new API feature
