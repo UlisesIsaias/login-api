@@ -536,3 +536,4 @@ Change 16 on 2025-05-21: Add caching to API endpoints
 Change 17 on 2025-05-21: Add caching to API endpoints
 Change 18 on 2025-05-21: Add caching to API endpoints
 Change 19 on 2025-05-21: Update API dependencies
+Change 20 on 2025-05-21: Add API webhook support
