@@ -532,3 +532,4 @@ Change 12 on 2025-05-21: Fix API pagination issue
 Change 13 on 2025-05-21: Add caching to API endpoints
 Change 14 on 2025-05-21: Update API dependencies
 Change 15 on 2025-05-21: Fix API pagination issue
+Change 16 on 2025-05-21: Add caching to API endpoints
