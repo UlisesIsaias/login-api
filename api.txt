@@ -521,3 +521,4 @@ Change 1 on 2025-05-21: Fix bug in API authentication
 Change 2 on 2025-05-21: Improve API logging
 Change 3 on 2025-05-21: Update API configuration
 Change 4 on 2025-05-21: Fix API response validation
+Change 5 on 2025-05-21: Refactor API endpoint structure
