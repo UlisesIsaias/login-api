@@ -541,3 +541,4 @@ Change 21 on 2025-05-21: Add API monitoring
 Change 22 on 2025-05-21: Improve API error messages
 Change 23 on 2025-05-21: Update API configuration
 Change 1 on 2025-05-22: Improve API error messages
+Change 2 on 2025-05-22: Add caching to API endpoints
