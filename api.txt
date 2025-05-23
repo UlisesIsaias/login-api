@@ -547,3 +547,4 @@ Change 4 on 2025-05-22: Update API configuration
 Change 1 on 2025-05-23: Update API configuration
 Change 2 on 2025-05-23: Refactor API endpoint structure
 Change 3 on 2025-05-23: Update API version
+Change 4 on 2025-05-23: Add error handling to API response
