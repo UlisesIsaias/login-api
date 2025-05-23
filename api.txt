@@ -560,3 +560,4 @@ Change 13 on 2025-05-23: Update API client library
 Change 14 on 2025-05-23: Fix bug in API authentication
 Change 15 on 2025-05-23: Update API version
 Change 16 on 2025-05-23: Add API webhook support
+Change 17 on 2025-05-23: Update API version
