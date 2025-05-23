@@ -553,3 +553,4 @@ Change 6 on 2025-05-23: Fix bug in API authentication
 Change 7 on 2025-05-23: Add unit tests for API
 Change 8 on 2025-05-23: Update API documentation
 Change 9 on 2025-05-23: Update API documentation
+Change 10 on 2025-05-23: Update API version
