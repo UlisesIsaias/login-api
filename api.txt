@@ -557,3 +557,4 @@ Change 10 on 2025-05-23: Update API version
 Change 11 on 2025-05-23: Add API monitoring
 Change 12 on 2025-05-23: Add API monitoring
 Change 13 on 2025-05-23: Update API client library
+Change 14 on 2025-05-23: Fix bug in API authentication
