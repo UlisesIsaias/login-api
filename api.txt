@@ -551,3 +551,4 @@ Change 4 on 2025-05-23: Add error handling to API response
 Change 5 on 2025-05-23: Add API webhook support
 Change 6 on 2025-05-23: Fix bug in API authentication
 Change 7 on 2025-05-23: Add unit tests for API
+Change 8 on 2025-05-23: Update API documentation
