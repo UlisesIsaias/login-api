@@ -563,3 +563,4 @@ Change 16 on 2025-05-23: Add API webhook support
 Change 17 on 2025-05-23: Update API version
 Change 18 on 2025-05-23: Update API version
 Change 19 on 2025-05-23: Refactor API middleware
+Change 1 on 2025-05-26: Update API documentation
