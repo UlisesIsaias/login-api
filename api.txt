@@ -579,3 +579,4 @@ Change 13 on 2025-05-26: Update API client library
 Change 14 on 2025-05-26: Fix API rate limiting issue
 Change 15 on 2025-05-26: Fix API timeout issue
 Change 16 on 2025-05-26: Update API documentation
+Change 17 on 2025-05-26: Add API monitoring
