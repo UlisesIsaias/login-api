@@ -575,3 +575,4 @@ Change 9 on 2025-05-26: Refactor API middleware
 Change 10 on 2025-05-26: Add caching to API endpoints
 Change 11 on 2025-05-26: Refactor API endpoint structure
 Change 12 on 2025-05-26: Update API dependencies
+Change 13 on 2025-05-26: Update API client library
