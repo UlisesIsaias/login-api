@@ -572,3 +572,4 @@ Change 6 on 2025-05-26: Add unit tests for API
 Change 7 on 2025-05-26: Fix API rate limiting issue
 Change 8 on 2025-05-26: Add error handling to API response
 Change 9 on 2025-05-26: Refactor API middleware
+Change 10 on 2025-05-26: Add caching to API endpoints
