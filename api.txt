@@ -582,3 +582,4 @@ Change 16 on 2025-05-26: Update API documentation
 Change 17 on 2025-05-26: Add API monitoring
 Change 18 on 2025-05-26: Update API dependencies
 Change 1 on 2025-05-27: Fix API response validation
+Change 2 on 2025-05-27: Fix bug in API authentication
