@@ -599,3 +599,4 @@ Change 11 on 2025-05-28: Update API client library
 Change 12 on 2025-05-28: Improve API logging
 Change 13 on 2025-05-28: Fix API timeout issue
 Change 14 on 2025-05-28: Fix API rate limiting issue
+Change 15 on 2025-05-28: Improve API request handling
