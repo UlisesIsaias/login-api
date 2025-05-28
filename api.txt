@@ -590,3 +590,4 @@ Change 2 on 2025-05-28: Improve API logging
 Change 3 on 2025-05-28: Add API webhook support
 Change 4 on 2025-05-28: Add API monitoring
 Change 5 on 2025-05-28: Add new API feature
+Change 6 on 2025-05-28: Improve API logging
