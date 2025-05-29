@@ -613,3 +613,4 @@ Change 6 on 2025-05-29: Add unit tests for API
 Change 7 on 2025-05-29: Update API client library
 Change 8 on 2025-05-29: Add unit tests for API
 Change 9 on 2025-05-29: Fix API rate limiting issue
+Change 10 on 2025-05-29: Update API configuration
