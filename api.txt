@@ -604,3 +604,4 @@ Change 16 on 2025-05-28: Update API documentation
 Change 17 on 2025-05-28: Enhance API security
 Change 18 on 2025-05-28: Fix API timeout issue
 Change 19 on 2025-05-28: Fix API timeout issue
+Change 1 on 2025-05-29: Update API configuration
