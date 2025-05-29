@@ -609,3 +609,4 @@ Change 2 on 2025-05-29: Add unit tests for API
 Change 3 on 2025-05-29: Update API configuration
 Change 4 on 2025-05-29: Improve API error messages
 Change 5 on 2025-05-29: Add API webhook support
+Change 6 on 2025-05-29: Add unit tests for API
