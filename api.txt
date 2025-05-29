@@ -607,3 +607,4 @@ Change 19 on 2025-05-28: Fix API timeout issue
 Change 1 on 2025-05-29: Update API configuration
 Change 2 on 2025-05-29: Add unit tests for API
 Change 3 on 2025-05-29: Update API configuration
+Change 4 on 2025-05-29: Improve API error messages
