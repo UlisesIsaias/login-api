@@ -625,3 +625,4 @@ Change 18 on 2025-05-29: Add caching to API endpoints
 Change 19 on 2025-05-29: Fix API pagination issue
 Change 20 on 2025-05-29: Fix API response validation
 Change 21 on 2025-05-29: Improve API request handling
+Change 1 on 2025-05-30: Add API webhook support
