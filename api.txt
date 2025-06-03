@@ -630,3 +630,4 @@ Change 2 on 2025-05-30: Fix API pagination issue
 Change 3 on 2025-05-30: Refactor API middleware
 Change 4 on 2025-05-30: Improve API error messages
 Change 1 on 2025-06-03: Fix API pagination issue
+Change 2 on 2025-06-03: Fix API rate limiting issue
