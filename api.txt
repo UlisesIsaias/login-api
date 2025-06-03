@@ -632,3 +632,4 @@ Change 4 on 2025-05-30: Improve API error messages
 Change 1 on 2025-06-03: Fix API pagination issue
 Change 2 on 2025-06-03: Fix API rate limiting issue
 Change 3 on 2025-06-03: Update API configuration
+Change 4 on 2025-06-03: Add error handling to API response
