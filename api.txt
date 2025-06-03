@@ -652,3 +652,4 @@ Change 20 on 2025-06-03: Update API configuration
 Change 21 on 2025-06-03: Refactor API middleware
 Change 22 on 2025-06-03: Add error handling to API response
 Change 23 on 2025-06-03: Add API webhook support
+Change 24 on 2025-06-03: Fix API pagination issue
