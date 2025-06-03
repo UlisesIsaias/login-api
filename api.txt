@@ -639,3 +639,4 @@ Change 7 on 2025-06-03: Fix API rate limiting issue
 Change 8 on 2025-06-03: Add API webhook support
 Change 9 on 2025-06-03: Optimize API performance
 Change 10 on 2025-06-03: Update API documentation
+Change 11 on 2025-06-03: Add unit tests for API
