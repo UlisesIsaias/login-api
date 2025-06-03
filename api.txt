@@ -650,3 +650,4 @@ Change 18 on 2025-06-03: Fix API rate limiting issue
 Change 19 on 2025-06-03: Update API client library
 Change 20 on 2025-06-03: Update API configuration
 Change 21 on 2025-06-03: Refactor API middleware
+Change 22 on 2025-06-03: Add error handling to API response
